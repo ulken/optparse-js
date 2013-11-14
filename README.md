@@ -3,7 +3,11 @@ optparse-js
 
 Optparse-js is a command line option parser for Javascript. It's slightly based on Ruby's implementation optparse but with some differences (different languages has different needs) such as custom parsers. 
 
-All examples in this readme is using [Node.js](http://nodejs.org/). How ever, the library works with all kinds of Javascript implementations.
+All examples in this readme is using [Node.js](http://nodejs.org/). However, the library works with all kinds of Javascript implementations.
+
+FORK SPECIFICS
+--------------
+This fork makes ``filter`` work again.
 
 
 QUICK START
